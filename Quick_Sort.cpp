@@ -1,3 +1,5 @@
+// Code designed on 18th Februaray, 2021 ~ Thursday_3testd on 21st February ~ Sunday_3.
+// Check out the tracing part and the code designing part in the "Data Structures" notes of GPT-MSB.
 #include <iostream>
 using namespace std;
 
